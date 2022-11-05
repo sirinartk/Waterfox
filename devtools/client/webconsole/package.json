@@ -19,7 +19,7 @@
     "devtools-modules": "0.0.24",
     "enzyme": "^2.4.1",
     "expect": "^1.16.0",
-    "file-loader": "^0.10.1",
+    "file-loader": "^6.0.0",
     "immutable": "^3.8.1",
     "jsdom": "^9.4.1",
     "jsdom-global": "^2.0.0",
