@@ -17,7 +17,7 @@
     "devtools-config": "0.0.12",
     "devtools-launchpad": "0.0.67",
     "devtools-modules": "0.0.24",
-    "enzyme": "^2.4.1",
+    "enzyme": "^3.0.0",
     "expect": "^1.16.0",
     "file-loader": "^0.10.1",
     "immutable": "^3.8.1",
